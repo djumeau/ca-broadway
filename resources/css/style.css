@@ -29,12 +29,13 @@ h3 {
     color: white;
 }
 
-.header {
+.header, .footer {
   width: 100%;
   font-size: 18px;
 }
 
-.header a {
+.header a,
+.footer a {
   color: white;
 }
 
