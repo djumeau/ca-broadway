@@ -35,13 +35,14 @@ h3 {
 }
 
 .header a,
-.footer a {
+.footer a,
+.copyright {
   color: white;
 }
 
 .footer {
   background-color: dimgray;
-  color: white;
+  text-align: left;
 }
 
 .copyright {
